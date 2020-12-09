@@ -1,0 +1,1 @@
+GitHub Pages is a free place to store the files that run a website and host that website for people to visit (it only works for particular types of website, like basic HTML sites or Jekyll sites, and does not host databases).
